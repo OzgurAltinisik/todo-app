@@ -55,8 +55,12 @@ todo-app/
 
 ## Canlı Demo
 
-[Netlify linki buraya eklenecek]
+https://scintillating-monstera-a0bf18.netlify.app
 
 ## Ekran Görüntüsü
 
-[Ekran görüntüsü buraya eklenecek]
+## Ana Sayfa
+![Ana Sayfa](ss/ss1.png)
+
+
+![Ana Sayfa](ss/ss2.png)
